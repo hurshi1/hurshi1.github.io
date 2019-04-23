@@ -44,3 +44,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-toc
+
+theme: jekyll-theme-cayman
